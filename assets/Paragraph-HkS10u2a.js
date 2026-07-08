@@ -1,0 +1,1 @@
+import{t as e}from"./index-zQTgi2MT.js";var t=e(),n=({size:e=`base`,children:n,className:r=``,id:i})=>(0,t.jsx)(`p`,{id:i,className:`${{xs:`text-xs leading-relaxed`,sm:`text-sm leading-relaxed`,base:`text-base leading-relaxed`,lg:`text-lg leading-relaxed`,xl:`text-xl leading-relaxed`}[e]} ${r}`,children:n});export{n as t};
