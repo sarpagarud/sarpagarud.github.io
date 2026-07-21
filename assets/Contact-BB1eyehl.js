@@ -1,1 +1,0 @@
-import{c as e,t}from"./Layout-wZdpMyHz.js";import{t as n}from"./index-qI-RS6t8.js";import{t as r}from"./ContactSection-D1IVGrhX.js";var i=n(),a=({})=>(0,i.jsx)(i.Fragment,{children:(0,i.jsx)(t,{children:(0,i.jsx)(e,{className:`mx-auto container mb-24`,children:(0,i.jsx)(r,{})})})});export{a as Contact,a as default};
